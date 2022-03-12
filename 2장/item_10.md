@@ -5,7 +5,7 @@
 ### string의 메서드
 
 **기본형 타입**
-string, number, boolean, null, undefined, symbol, bigint
+`string, number, boolean, null, undefined, symbol, bigint`
 
 - 기본형은 객체와 다르게 **메서드**를 가지지 않는다.
 - 그런데 **string**의 경우 메서드를 가지고 있는것처럼 보임
