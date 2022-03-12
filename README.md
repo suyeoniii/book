@@ -1,6 +1,6 @@
 # effective-typescript
 
-📖 effective typescript를 읽고 정리하는 repository
+📖 [effective typescript](https://effectivetypescript.com/)를 읽고 정리하는 repository
 
 ## index
 
