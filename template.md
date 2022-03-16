@@ -6,7 +6,7 @@
 
 text
 
-```js
+```ts
 code;
 ```
 
