@@ -7,3 +7,7 @@
 ## 📚 Book List
 
 ---
+
+- 이펙티브 타입스크립트 (effective-typescript)
+- 클린 아키텍처 (clean-architecture)
+- 테스트 주도 개발 (test-driven-development)
